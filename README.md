@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Security**
 
-- 💬 Ask me about **React, Java, Git, JavaScript, Spring, Spring MVC, Spring Boot, TypeScript,Angular**
+- 💬 Ask me about **React, Java, Git, JavaScript, Spring, Spring MVC, Spring Boot, TypeScript, Angular**
 
 - 📫 How to reach me **ayaankapoor013@gmail.com**
 
